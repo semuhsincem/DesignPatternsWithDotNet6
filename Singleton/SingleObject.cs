@@ -18,7 +18,6 @@ namespace Singleton
         {
             return instance;
         }
-
         public string showMessage()
         {
             return "Hello World!";
